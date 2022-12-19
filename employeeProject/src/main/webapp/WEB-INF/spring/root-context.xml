@@ -17,7 +17,7 @@
 			value="net.sf.log4jdbc.sql.jdbcapi.DriverSpy"></property>
 		<property name="jdbcUrl"
 			value="jdbc:log4jdbc:mysql://127.0.0.1:3306/employees?useSSL=false&amp;characterEncoding=UTF-8&amp;serverTimezone=Asia/Seoul"></property>
-		<property name="username" value="emp_user"></property>
+		<property name="username" value="emp_user"></property> <!-- 저희집 mysql 아이피가 3305라서.... -->
 		<property name="password" value="qwer1234!@#$"></property>
 	</bean>
 
