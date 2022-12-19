@@ -18,7 +18,7 @@
 		<property name="jdbcUrl"
 			value="jdbc:log4jdbc:mysql://127.0.0.1:3306/employees?useSSL=false&amp;characterEncoding=UTF-8&amp;serverTimezone=Asia/Seoul"></property>
 		<property name="username" value="emp_user"></property>
-		<property name="password" value="qwer1234!@#$"></property>
+		<property name="password" value="sql123456"></property>
 	</bean>
 
 	<!-- HikariCP configuration for use -->
