@@ -102,12 +102,12 @@ public class BoardController {
 		log.info("........register");
 	}
 
-//	@GetMapping(value = "/getAttachList", produces = MediaType.APPLICATION_JSON_VALUE)
-//	@ResponseBody
-//	public ResponseEntity<List<BoardAttachVO>> getAttachList(Long bno) {
-//		log.info("getAttachList12 " + bno);
-//		return new ResponseEntity<>(boardService.getAttachList(bno), HttpStatus.OK);
-//	}
+	@GetMapping(value = "/getAttachList", produces = MediaType.APPLICATION_JSON_VALUE)
+	@ResponseBody
+	public String getAttachList(Long bno) {
+		return "";
+	}
+	
 //
 //	private void deleteFiles(List<BoardAttachVO> attachList) {
 //
