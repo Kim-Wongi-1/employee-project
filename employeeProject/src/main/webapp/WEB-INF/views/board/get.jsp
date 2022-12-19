@@ -72,7 +72,7 @@
 				</div>
 
 				<div class="form-group">
-					<label>TITLE</label> <input class="form-control" name="title"
+					<label>TITLE 123123</label> <input class="form-control" name="title"
 						value="<c:out value='${board.title}'/>" readonly="readonly">
 				</div>
 				<div class="form-group">
