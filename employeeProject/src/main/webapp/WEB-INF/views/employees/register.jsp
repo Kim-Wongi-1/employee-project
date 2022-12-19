@@ -87,7 +87,11 @@
 						<button type="reset" class="btn btn-danger">Reset</button>
 					</div>
 				</form>
-
+				<div>
+			      <input type="submit" value="등록" />
+			      <input type="reset" value="다시작성" /> 
+    			  <input type="button" value="조회"  />
+				</div>
 			</div>
 			<!-- /.panel-body -->
 		</div>
