@@ -77,6 +77,7 @@
 				<input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}" />
 					<button type="submit" class="btn btn-primary">Register</button>
 					<button type="reset" class="btn btn-danger">Reset</button>
+					<button onclick="" class="btn btn-danger">Reset</button>
 				</form>
 			</div>
 			<!-- /.panel-body -->
