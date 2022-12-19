@@ -154,7 +154,7 @@
 							<div class="modal-body">처리가 완료되었습니다.</div>
 							<div class="modal-footer">
 								<button type="button" class="btn btn-default"
-									data-dismiss="modal">Close</button>
+									data-dismiss="modal">닫기</button>
 								<button type="button" class="btn btn-primary">Save
 									changes</button>
 							</div>
